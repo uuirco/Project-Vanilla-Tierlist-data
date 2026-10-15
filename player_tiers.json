@@ -1,4 +1,84 @@
-
 {
-  "players": {}
+  "players": {
+    "87df632da8024d6aa5909f50eec5c8fb": {
+      "uuid": "87df632d-a802-4d6a-a590-9f50eec5c8fb",
+      "username": "o1a1x",
+      "tier": "LT4"
+    },
+    "563855b1c3d0400684cf70f39df7d068": {
+      "uuid": "563855b1-c3d0-4006-84cf-70f39df7d068",
+      "username": "TwisFrost",
+      "tier": "LT4"
+    },
+    "5013c83a24e241269014d019d6d77b89": {
+      "uuid": "5013c83a-24e2-4126-9014-d019d6d77b89",
+      "username": "Golvet",
+      "tier": "LT3"
+    },
+    "9b73470a17b742e8a6b5af6a5285254e": {
+      "uuid": "9b73470a-17b7-42e8-a6b5-af6a5285254e",
+      "username": "46Ghost",
+      "tier": "LT3"
+    },
+    "8dd6b2d078f1450488b968bfbd37b3bc": {
+      "uuid": "8dd6b2d0-78f1-4504-88b9-68bfbd37b3bc",
+      "username": "vvyzn",
+      "tier": "HT4"
+    },
+    "2eb2be6021d8439b811840df3b93dece": {
+      "uuid": "2eb2be60-21d8-439b-8118-40df3b93dece",
+      "username": "maybegang",
+      "tier": "HT3"
+    },
+    "8d05a80a2e004412989fb35e57d0b55b": {
+      "uuid": "8d05a80a-2e00-4412-989f-b35e57d0b55b",
+      "username": "uuirco",
+      "tier": "LT3"
+    },
+    "fb52e43b531743f4bdf3b5c92cb3583d": {
+      "uuid": "fb52e43b-5317-43f4-bdf3-b5c92cb3583d",
+      "username": "BonesMeows",
+      "tier": "LT3"
+    },
+    "eb98cde35b3f47cd82e8c3ab85100847": {
+      "uuid": "eb98cde3-5b3f-47cd-82e8-c3ab85100847",
+      "username": "Supine135",
+      "tier": "HT4"
+    },
+    "b53a9117614a4fd990691d0d34a278e9": {
+      "uuid": "b53a9117-614a-4fd9-9069-1d0d34a278e9",
+      "username": "Acrobaticgenie",
+      "tier": "LT4"
+    },
+    "66719811f3f44641a5aa6fb5b6a8b700": {
+      "uuid": "66719811-f3f4-4641-a5aa-6fb5b6a8b700",
+      "username": "Frezyyyyyyyy",
+      "tier": "HT3"
+    },
+    "8bd98ececb6f473cb3867ffac164ccaf": {
+      "uuid": "8bd98ece-cb6f-473c-b386-7ffac164ccaf",
+      "username": "JINGYU_ZhUkxW",
+      "tier": "LT3"
+    },
+    "733191fe758f413e9a5901ed944ebc49": {
+      "uuid": "733191fe-758f-413e-9a59-01ed944ebc49",
+      "username": "perkivs",
+      "tier": "HT3"
+    },
+    "339c3a782ece47938053fbb47e2f346a": {
+      "uuid": "339c3a78-2ece-4793-8053-fbb47e2f346a",
+      "username": "eayq",
+      "tier": "HT4"
+    },
+    "9ae565b42acf45fa83a384402527dcc1": {
+      "uuid": "9ae565b4-2acf-45fa-83a3-84402527dcc1",
+      "username": "Loyalty_yy",
+      "tier": "LT4"
+    },
+    "d3fb2eea6ce74f99a977500daf2956dd": {
+      "uuid": "d3fb2eea-6ce7-4f99-a977-500daf2956dd",
+      "username": "usxrxd",
+      "tier": "LT3"
+    }
+  }
 }
