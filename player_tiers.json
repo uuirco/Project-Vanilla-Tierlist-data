@@ -21,7 +21,7 @@
       "username": "maybegang"
     },
     "8d05a80a-2e00-4412-989f-b35e57d0b55b": {
-      "tier": "LT3",
+      "tier": "HT1",
       "username": "uuirco"
     },
     "fb52e43b-5317-43f4-bdf3-b5c92cb3583d": {
@@ -75,6 +75,10 @@
     "c6f4614e-7b1b-429c-9928-8ddfe64f150c": {
       "tier": "HT4",
       "username": "StrengthMaster"
+    },
+    "f9c50e08-e3ae-421a-b02f-508988132dad": {
+      "tier": "LT3",
+      "username": "ProPlayrFoidSlyr"
     }
   }
 }
